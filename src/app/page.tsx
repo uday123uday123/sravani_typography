@@ -34,7 +34,7 @@ export default function Home() {
       <WelcomeToast show={showWelcome} message={welcomeMessage} />
 
       <CursorDrivenParticleTypography
-        text="SRAVANI"
+        text="SRAVANI❤️🦋"
         fontSize={160}
         particleDensity={5}
         dispersionStrength={20}
